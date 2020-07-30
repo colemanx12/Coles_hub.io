@@ -103,7 +103,7 @@ body{
 /** Style and animate the nav overlay **/
 .main-nav-list::before,
 .main-nav-list::after{
-    background-color:#b94071;
+    background-color:#f36f48;
     content:"";
     position: absolute;
     top: 0;
